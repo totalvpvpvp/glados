@@ -17,7 +17,7 @@ GLaDOS 一周年, 我们为您提供用户优惠码 Of-Course-I-Still-Love-You
 
 ## 特色
 11111111111111
-* GLaDOS提供Wireguard和V2Ray端点，以满足我们的用户所有可能的场景或技术需求。
+* GLaDOS提供Wireguard和V2Ray端点，以满足我们的用户所有可能的场景或技术需求。1
 * GLaDOS实时监控互联网拥塞，并通过最快，最可靠的网络路径路由您的流量。
 * GLaDOS 流量完全端到端加密，保护您的流量免受不良行为者的侵害。
 * GLaDOS将其服务器分发到Amazon EC2，Goolge Compute Engine，Microsoft Azure，Cloudflare，Anchnet，以实现一流的速度。GLaDOS使用一级提供商的带宽运行高级高速网络。
